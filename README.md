@@ -1,4 +1,11 @@
 # Fireboy and Watergirl
+## Table of Contents
+- [About](#about)
+- [Members](#members)
+- [Meeting Schedule](#meeting-schedule)
+- [Tools We Use](#tools-we-use)
+- [Contact](#contact)
+- [Learning Goals](#learning-goals)
 ## About
 This repository is for 9-Lithium CS3 SY26-27 under Sir Kyle Enorio.
 The collaborators share a love for the game that gave the team its name.
