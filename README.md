@@ -1,7 +1,7 @@
 # Fireboy and Watergirl
 ## About
-The collaborators are G9-Lithium students working on a Computer Science 2 Activity. 
-The collaborators share a love for a game that gave rise to the team's name
+This repository is for 9-Lithium CS3 SY26-27 under Sir Kyle Enorio.
+The collaborators share a love for a game that gave rise to the team's name.
 ## Members
 | Name | Role | Username |
 | Hermione Yuri Deypalubos | Student A | https://github.com/Shalashaska-14180 |
