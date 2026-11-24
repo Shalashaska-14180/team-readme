@@ -6,6 +6,11 @@ The collaborators share a love for a game that gave rise to the team's name.
 | Name | Role | Username |
 | Hermione Yuri Deypalubos | Student A | https://github.com/Shalashaska-14180 |
 | Kristelle Rheign Betque | Student B | https://github.com/kristellebetque
+## Meeting Schedule
+| Day | Time |
+|------|------|
+| Monday | 10:25 AM |
+| Tuesday | 10:25 AM|
 ## Contact
 Ask us questions through the Issues tab.
 ## Learning Goals
