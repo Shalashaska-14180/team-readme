@@ -1,6 +1,7 @@
 # Fireboy and Watergirl
 ## About
-This repository is for our branching and merge conflict activity.
+The collaborators are G9-Lithium students working on a Computer Science 2 Activity. 
+The collaborators share a love for a game that gave rise to the team's name
 ## Members
 | Name | Role | Username |
 | Hermione Yuri Deypalubos | Student A | https://github.com/Shalashaska-14180 |
