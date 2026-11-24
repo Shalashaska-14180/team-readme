@@ -1,6 +1,6 @@
 # Fireboy and Watergirl
 ## About
-This repository is for our branching and merge conflict activity.
+This repository is for 9-Lithium CS3 SY26-27 under Sir Kyle Enorio.
 ## Members
 | Name | Role | Username |
 | Hermione Yuri Deypalubos | Student A | https://github.com/Shalashaska-14180 |
